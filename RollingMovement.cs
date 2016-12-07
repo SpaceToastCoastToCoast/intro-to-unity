@@ -17,6 +17,8 @@ public class RollingMovement : MonoBehavior {
   //The speed represents how many units per second we want our object to move. In Unity, the default unit is meters.
 
   //Variables not marked as public are hidden from the editor.
+  //C# assumes variables are private by default, unless you specify they are public.
+  //You can mark them as "private" explicitly if you choose, but they behave the same with or without the "private" identifier.
   Vector3 movement;
   Rigidbody playerRigidbody;
   float h, v;
