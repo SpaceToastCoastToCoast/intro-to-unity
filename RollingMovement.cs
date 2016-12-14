@@ -8,7 +8,7 @@ using System.Collections;
 //RequireComponent forces the object this is attached to to include this component.
 //A Rigidbody is the way that Unity integrates game objects with its physics engine.
 
-public class RollingMovement : MonoBehavior {
+public class RollingMovement : MonoBehaviour {
   //Declare your variables here.
 
   //Public variables are accessible from the editor.
