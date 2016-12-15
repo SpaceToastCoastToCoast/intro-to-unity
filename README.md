@@ -18,7 +18,7 @@ Go to [the Unity downloads page](https://store.unity.com/download?ref=personal) 
 
 Create a new project. You don't need to import anything--we will make a project from scratch.
 
-Unity comes with some built-in 3D shapes. We can use these to set up a basic game. These objects start off as plain white: we will learn how to put colors and textures on them in the next lesson.
+Unity comes with some built-in 3D shapes. We can use these to set up a basic game. These objects start off as plain white: we will learn how to put colors and textures on them in a future lesson.
 
 Once you have the editor open on a new project, create two GameObjects in the scene:
 
